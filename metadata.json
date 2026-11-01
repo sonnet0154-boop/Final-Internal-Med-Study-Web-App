@@ -1,0 +1,6 @@
+{
+  "name": "Internal Medicine Master & Clinical Exam Review",
+  "description": "Comprehensive internal medicine study companion and clinical exam review with structured theory, ADHD-friendly concept connections, SA STG & international guidelines, and active recall practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
